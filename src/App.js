@@ -6,10 +6,10 @@ import './pages/app.scss';
 function App() {
   return (
     <div className="App">
-      <Sidebar/>
+      <Sidebar />
       <div className="content">
-      <Navbar/>
-      <Main/>
+      <Navbar />
+      <Main />
       </div>
     
     </div>
