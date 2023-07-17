@@ -1,7 +1,7 @@
 import "./sidebar.scss";
-import Logo from '../assets/images/icons/logo.svg'
+import Logo from '../assets/images/icons/logo.svg';
 import SidebarBtn from "../componenets/SidebarBtn";
-import {Chart,Tickets,Ideas,Agents,Contacts,Articles,Settings,Subscription} from "../assets/icon"
+import {Chart,Tickets,Ideas,Agents,Contacts,Articles,Settings,Subscription} from "../assets/icon";
 
 
 const Sidebar = () => {
